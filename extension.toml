@@ -1,0 +1,7 @@
+id = "moss-theme"
+name = "Moss Theme"
+version = "0.1.0"
+schema_version = 1
+authors = ["Royer Guerrero"]
+description = "A calm dark green theme based on Herdr's Moss palette, with a Gruvbox-flavoured variant."
+repository = "https://github.com/ohxengineer/zed-moss-theme"
